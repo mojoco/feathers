@@ -1425,6 +1425,8 @@ package feathers.controls
 			{
 				this.handlePendingScroll();
 			}
+			
+			// TODO: propagate 'isEnabled' to childs 'SpinnerList'..
 		}
 
 		/**
